@@ -19,30 +19,6 @@ The main goal of this repository is to improve the UI and UX of Obsidian mobile.
 
 
 
-
-
-#### совет от нейросети
-Осуществи перевод на английский. если надо чего добавить - предложи:
- ```
-Дорогой друг, приветствую тебя на моём поле экспериментов с Obsidian.
- Здесь можно найти интересные решения, вдохновение, лайф хаки.
-
-Основная масса примеров собирается из различных источнмков, в том числе уже существующих GitHub репозиториев.
-
-  Основная цель данного хранилища - улучшить UI и UX мобильной версии Obsidian. Но многие вещи либо по умолчанию будут хорошо работать на любом устройстве, либо подребуются доработки.
-```
-
-Here's the English translation:
-
-```
-Dear friend, welcome to my Obsidian experimentation playground.
-Here you can find interesting solutions, inspiration, and life hacks.
-
-Most examples are collected from various sources, including existing GitHub repositories.
-
-The main goal of this repository is to improve the UI and UX of Obsidian mobile. However, many things will either work well on any device by default, or will require modifications.
-```
-
 ***
 
 ### Suggested Additions
