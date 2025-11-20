@@ -7,6 +7,8 @@
 - Resources 
 
 
+we are in dev
+
 # intro
 
 
