@@ -13,7 +13,7 @@ Two panels are available by default:
 Two panels are hidden in the mobile version but can be activated via CSS[^3]:
 - Status bar (status-bar)
 - Ribbon panel in the left sidebar
-![](../attachments/ribbonInLeftSaidBar.jpg)
+![](../user%20interface/attachments/ribbonInLeftSaidBar.jpg)
 
 
 **Why Customize the Interface?**
