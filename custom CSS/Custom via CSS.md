@@ -20,8 +20,19 @@ For very large style systems, consider logically dividing them into thematic blo
 - [maxiWorkspace](user%20interface/maxiWorkspace.md)
 
 
-
 - [folderLine](user%20interface/folderLine.md)
+
+
+##### mainNavBars
+
+- [intro_mainNavBars](notes/intro_mainNavBars.md)
+
+- [headerNavBarVertical](user%20interface/headerNavBarVertical.md)
+
+in work:
+[ribbonInLeftSaidBar](user%20interface/ribbonInLeftSaidBar.md)
+
+
 
 
 
