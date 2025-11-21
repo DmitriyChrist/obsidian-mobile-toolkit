@@ -1,4 +1,4 @@
-[Back to => Custom via CSS](custom%20CSS/Custom%20via%20CSS.md)
+[Back to => Custom via CSS](../Custom%20via%20CSS.md)
 
 **Introduction**
 
@@ -41,7 +41,7 @@ During testing, I discovered a problem with bottomNavBar — the panel disappear
 
 This section will include examples of working with bottomNavBar as well, but keep this behavior quirk in mind[^4][^5]. 
 
-[Back to => Custom via CSS](custom%20CSS/Custom%20via%20CSS.md)
+[Back to => Custom via CSS](../Custom%20via%20CSS.md)
 
 ***
 References:
