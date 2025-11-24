@@ -20,6 +20,10 @@ For very large style systems, consider logically dividing them into thematic blo
 - [maxiWorkspace](user%20interface/maxiWorkspace.md)
 
 
+- [modifiedList_biggerMark](custom%20CSS/text%20editor/modifiedList_biggerMark.md)
+
+- [focusSourceView](user%20interface/focusSourceView.md)
+- [hiddenCodeBlocks](user%20interface/hiddenCodeBlocks.md) - interesting, but with a bug
 - [folderLine](user%20interface/folderLine.md)
 
 
@@ -35,21 +39,10 @@ in work:
 - [ribbonInLeftSaidBar](user%20interface/ribbonInLeftSaidBar.md)
 
 
+[showTabOverview](user%20interface/showTabOverview.md) - group Top
 
 
-
- Статус-бар
- - [File Explorer](notes/File%20Explorer.md)
-Палитра команд
-Стилизация кнопок и иконок приложения
-Стилизация основных тем
-Отображение свойств
-Progress bar
-Пустая страница - empty
-Заставка загрузки приложения
-Всплывающие окна
-изменение группировки UI
-
+ - [File Explorer](notes/File%20Explorer.md) - group
 
 
 

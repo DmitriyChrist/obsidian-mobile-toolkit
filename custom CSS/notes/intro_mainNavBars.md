@@ -50,7 +50,8 @@ References:
 
 [^2]: How to customize CSS style in Obsidian — setting your own ... https://itwebmind.com/customize-css-style-in-obsidian-app
 
-[^3]: CSS to show status bar on mobile devices https://forum.obsidian.md/t/css-to-show-status-bar-on-mobile-devices/77185
+
+
 
 [^4]: Mobile toolbar and bottom navbar do not show up on keyboard ... https://forum.obsidian.md/t/mobile-toolbar-and-bottom-navbar-do-not-show-up-on-keyboard-activation-and-deactivation-on-older-android-phones-10/104331
 

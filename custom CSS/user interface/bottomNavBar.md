@@ -15,6 +15,8 @@ Later, I need to add some old examples, but with this behavior, it’s more of a
 ```css
 .is-mobile .app-container .mobile-navbar  {
 visibility: hidden;
+position: fixed;
+background: none;
 }
 ```
 

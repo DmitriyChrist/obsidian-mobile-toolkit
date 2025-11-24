@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - hidden-code
+---
 ## Description
 
 This code displays the hidden ribbon panel in the sidebar. 

@@ -23,11 +23,9 @@ The main goal of this repository is to improve the UI and UX of Obsidian mobile.
 
 ***
 
-### Suggested Additions
-
-Consider adding these sections to make your repository more complete:
 
 **Installation/Setup**
+
 - Brief instructions on how to use the examples or snippets
 - Any prerequisites or dependencies
 
@@ -42,22 +40,3 @@ Consider adding these sections to make your repository more complete:
 **Credits**
 - Acknowledgment of original sources
 - Links to inspiring repositories
-
-**License**
-- What license applies to your work
-
-**Example structure:**
-```markdown
-## Installation
-1. Clone or download this repository
-2. Copy desired CSS snippets to your vault's `.obsidian/snippets/` folder
-3. Enable snippets in Settings → Appearance → CSS snippets
-
-## Repository Structure
-- `/css` - CSS customizations
-- `/plugins` - Plugin configurations
-- `/examples` - Usage examples
-```
-
-Would you like help drafting any of these additional sections for your README?
-
