@@ -39,7 +39,7 @@ in work:
 - [ribbonInLeftSaidBar](user%20interface/ribbonInLeftSaidBar.md)
 
 
-[showTabOverview](user%20interface/showTabOverview.md) - group Top
+- [showTabOverview](user%20interface/showTabOverview.md) - group Top
 
 
  - [File Explorer](notes/File%20Explorer.md) - group
