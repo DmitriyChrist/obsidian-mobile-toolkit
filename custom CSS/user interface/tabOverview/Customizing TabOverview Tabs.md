@@ -1,6 +1,6 @@
 There are two main approaches:  
-- [Vertical tab layout](#Vertical%20tab%20layout)
-- [Horizontal tab layout](#Horizontal%20tab%20layout)
+-  [Vertical tab layout](#vertical-tab-layout)
+- [Horizontal tab layout](#horizontal-tab-layout)
 
 
 # Vertical tab layout 
