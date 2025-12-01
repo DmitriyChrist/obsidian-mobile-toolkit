@@ -8,11 +8,8 @@ For very large style systems, consider logically dividing them into thematic blo
 
 # Table of content
 
-- [CSS Values and Units Module](https://drafts.csswg.org/css-values)
 - [intro_CSS](custom%20CSS/notes/intro_CSS.md)
-- [структура для большой библиотеки CSS_v01](custom%20CSS/text%20editor/структура%20для%20большой%20библиотеки%20CSS_v01.md)
-- [структура для библиотеки CSS_v02](custom%20CSS/text%20editor/структура%20для%20библиотеки%20CSS_v02.md)
-- [Поиск ИИ по CSS сборникам](custom%20CSS/text%20editor/Поиск%20ИИ%20по%20CSS%20сборникам.md)
+- [CSS Values and Units Module](https://drafts.csswg.org/css-values)
 
 ## User interface
 
@@ -36,7 +33,7 @@ For very large style systems, consider logically dividing them into thematic blo
 - [intro_mainNavBars](notes/intro_mainNavBars.md)
 - [headerNavBarVertical](user%20interface/headerNavBarVertical.md)
 - [bottomNavBar](user%20interface/bottomNavBar.md)
-	- Надо гайд запилить, как можно иконки там убирать
+	- todo: We need to make a guide on how to remove icons there via css
 - [statusBarAsMain](user%20interface/statusBarAsMain.md)
 	- [hoverBars](user%20interface/hoverBars.md)
 
@@ -49,14 +46,25 @@ in work:
 ***
 
 ### Text editor 
+#### Main config
+- [relativeLine_css](text%20editor/relativeLine_css.md)
+- [Centering Embeds and table in Obsidian](text%20editor/Centering%20Embeds%20and%20table%20in%20Obsidian.md)
+	- or [Aligh image](https://forum.obsidian.md/t/align-image)
+		- for more: [Image Adjustments](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustme)
+- [highlighting and underlining](text%20editor/highlighting%20and%20underlining.md)
+- [codeBlocks](custom%20CSS/text%20editor/codeBlocks.md)
+
+
 #### Title
+- [Underlining of the file header and color highlighting](text%20editor/Underlining%20of%20the%20file%20header%20and%20color%20highlighting.md)
 - [headerInNote](text%20editor/headerInNote/headerInNote.md) - group
 	- [clickableAllTitle](text%20editor/clickableAllTitle.md)
+	
 
 #### Text
+
 - [paragraph_indentation](text%20editor/paragraph_indentation.md)
 - [Format keyboard keys text](text%20editor/Format%20keyboard%20keys%20text.md) - in work
-- [Центрирование вложений и emmbed и table](text%20editor/Центрирование%20вложений%20и%20emmbed%20и%20table.md)
 - [Horizontal ruler line](https://forum.obsidian.md/t/creating-fancy-horizontal-rule-lines/63700)
 	- [Extra hr-line setting](https://github.com/xp-dv/obsidian-extra-extras)
 
@@ -81,10 +89,30 @@ in work:
 
 
 
+
+
+***
+- [Resources_CSS](notes/Resources_CSS.md)
+
+
+***
+
+#### See also:
+- [Callout styling - Celtic callout border](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Celtic%20callout%20border.md)
+- [Callout styling - Label callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Label%20callout.md)
+- [Vertical label arrangement](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Vertical%20label%20arrangement.md) - idea for ribbon prototype
+- [Callout styling - Leader list callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Leader%20list%20callout.md)
+- [Callout styling - Tabbed callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Tabbed%20callout.md)
+- [Callout styling - Scroller callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Scroller%20callout.md)
+- [Callout styling - Quote callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Quote%20callout.md)
+- [Short callouts](https://github.com/ltroj/obsidian-short-callout)
+- [Callout styling - Timeline callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md)
+- wip: [Timeline_v1](text%20editor/Timeline_v1.md)
+	- [Fancy a story - timelineCallout](https://elsatam.github.io/obsidian-fancy-a-story/docs/callouts/timeline.html)
 - wip: [Clean Embeds](text%20editor/Clean%20Embeds.md)
 	- [Embeds big some things](text%20editor/Embeds%20big%20some%20things.md)
 - wip: [Fold is collapsed accent](https://github.com/Dmytro-Shulha/obsidian-css-snippets/blob/master/Snippets/Fold%20is%20collapsed%20accent.md)
-- wip: [Easy multicolumn via hr](https://github.com/zamsyt/obsidian-snippets/blob/main/Easy%20multi-column%20notes.css) - но указать на плагин
+- wip: [Easy multicolumn via hr](https://github.com/zamsyt/obsidian-snippets/blob/main/Easy%20multi-column%20notes.css) - need to find mentioning a similar plugin.
 	- [Multicolumns_v02](https://gist.github.com/DrBucket/3a109f4a159bcd15b5908385f4787c97)
 - wip:  [Obsidian Tasks CSS redesign for "Create or Edit Task" modal](https://forum.obsidian.md/t/obsidian-tasks-css-redesign-for-create-or-edit-task-modal/38039/10)
 -  wip: [Checkboxes - Progress bar checkboxes](custom%20CSS/text%20editor/Checkboxes%20-%20Progress%20bar%20checkboxes.md)
@@ -94,24 +122,3 @@ in work:
 	- [Callout Kith](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Kith)
 	- [Statblocks Callout](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Statblocks)
 	- [Callout timeline](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Timeline)
-
-***
-- [Resources_CSS](notes/Resources_CSS.md)
-
-
-***
-
-For education:
-- [Callout styling - Celtic callout border](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Celtic%20callout%20border.md)
-- [Callout styling - Label callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Label%20callout.md)
-- [Vertical label arrangement](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Vertical%20label%20arrangement.md) - idea for ribbon prototype
-- [Callout styling - Leader list callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Leader%20list%20callout.md)
-- [Callout styling - Timeline callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md)
-- [Callout styling - Tabbed callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Tabbed%20callout.md)
-- [Callout styling - Scroller callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Scroller%20callout.md)
-- [Callout styling - Quote callout](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Quote%20callout.md)
-- [Short callouts](https://github.com/ltroj/obsidian-short-callout)
-- wip: [Timeline_v1](text%20editor/Timeline_v1.md)
-- [Fancy a story - timelineCallout](https://elsatam.github.io/obsidian-fancy-a-story/docs/callouts/timeline.html)
-- 
-

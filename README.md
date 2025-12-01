@@ -7,17 +7,20 @@
 - [Guides and Reviews](guides/Guides%20and%20Reviews.md)
 - Resources 
 
-
-
 # intro
 
 
  Dear friend, welcome to my Obsidian experimentation playground.
 Here you can find interesting solutions, inspiration, and life hacks.
 
-Most examples are collected from various sources, including existing GitHub repositories.
-
 The main goal of this repository is to improve the UI and UX of Obsidian mobile. However, many things will either work well on any device by default, or will require modifications.
+
+I sincerely hope that the materials presented here will not leave you indifferent and I would like to receive feedback from you in the form of comments, suggestions, or ideas.
+
+Almost all of the content was written with the help of AI. Without its help, I wouldn't have had a chance to even come close to prototyping something like this, since I just recently started learning programming. But despite this, I plan to use this small project-collection as an educational platform.
+
+Some examples are collected from various sources, including existing GitHub repositories.
+
 
 
 
