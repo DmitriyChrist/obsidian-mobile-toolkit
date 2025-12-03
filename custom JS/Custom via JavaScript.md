@@ -19,6 +19,7 @@ Backing up your data is essential to prevent loss from errors, bugs, or other is
 - [Lorem ipsum text Generator](invoke/loremGenerator.md)
 - [copy Path As Markdown-link](startup/copyPathAsMarkdown.md)
 - [mover Note into subfolder of root](invoke/moveNote_v01.md)
+	- [autoNewNoteMover](startup/autoNewNoteMover.md)
 - [folder Files Modal manager](startup/folderFilesModal.md)
 - [Relative Line Number](articles/RelativeLine.md) 
 
