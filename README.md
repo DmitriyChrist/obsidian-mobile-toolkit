@@ -21,4 +21,4 @@ Some examples are collected from various sources, including existing GitHub repo
 
 
 # Support
-<a href="https://boosty.to/dochrist_152/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"></a>
+<a href="https://boosty.to/dochrist_152/donate" target="_blank"><img src="https://i.imgur.com/R5rP4OF.jpeg" alt="Buy Me A Coffee" width="217"></a>
