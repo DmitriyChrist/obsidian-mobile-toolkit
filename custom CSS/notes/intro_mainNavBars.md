@@ -13,6 +13,7 @@ Two panels are available by default:
 ![](https://i.imgur.com/rIfJLJw.jpeg)
 - Bottom navigation bar (bottomNavBar)
 ![](https://i.imgur.com/NOKGypX.jpeg)
+
 Two panels are hidden in the mobile version but can be activated via CSS[^3]:
 - Status bar (status-bar)
 ![](https://i.imgur.com/IiEzvxU.jpeg)
