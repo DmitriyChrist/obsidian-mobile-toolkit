@@ -7,6 +7,8 @@
 	- [Basic Configuration of CodeScript toolkit](custom%20JS/articles/Basic%20Configuration%20of%20CodeScript%20toolkit.md)
 	- [Main UI configuration](custom%20JS/articles/Main%20UI%20configuration.md)
 
+тест
+
 # intro
 
 

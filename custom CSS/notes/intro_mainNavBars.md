@@ -14,7 +14,7 @@ Two panels are available by default:
 - Bottom navigation bar (bottomNavBar)
 ![](https://i.imgur.com/NOKGypX.jpeg)
 
-Two panels are hidden in the mobile version but can be activated via CSS[^3]:
+Two panels are hidden in the mobile version but can be activated via CSS:
 - Status bar (status-bar)
 ![](https://i.imgur.com/IiEzvxU.jpeg)
 - Ribbon panel in the left sidebar
@@ -48,9 +48,6 @@ References:
 [^1]: CSS snippets https://help.obsidian.md/snippets
 
 [^2]: How to customize CSS style in Obsidian — setting your own ... https://itwebmind.com/customize-css-style-in-obsidian-app
-
-
-
 
 [^4]: Mobile toolbar and bottom navbar do not show up on keyboard ... https://forum.obsidian.md/t/mobile-toolbar-and-bottom-navbar-do-not-show-up-on-keyboard-activation-and-deactivation-on-older-android-phones-10/104331
 
