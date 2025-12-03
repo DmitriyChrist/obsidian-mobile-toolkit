@@ -29,7 +29,6 @@ The script displays notifications about the operation result: successful copying
 
 const BASE_FOLDER = 'Custom_Obs_journal_DOC';
 
-// Функция для копирования markdown-ссылки с относительным путём
 function copyAsMarkdownLink(file) {
     if (!file.path.startsWith(BASE_FOLDER + '/')) {
         new Notice(`⚠️ File is not in the folder ${BASE_FOLDER}!`, 4000);

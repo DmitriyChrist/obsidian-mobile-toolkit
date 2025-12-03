@@ -34,7 +34,7 @@ For very large style systems, consider logically dividing them into thematic blo
 - [intro_mainNavBars](notes/intro_mainNavBars.md)
 - [headerNavBarVertical](user%20interface/headerNavBarVertical.md)
 - [bottom Nav Bar](user%20interface/bottomNavBar.md)
-	- todo: We need to make a guide on how to remove icons there via css
+	- [hide icon of bottom navar](user%20interface/hide%20icon%20of%20bottom%20navar.md)
 - [status Bar as Main](user%20interface/statusBarAsMain.md)
 	- [hoverBars](user%20interface/hoverBars.md)
 
@@ -50,7 +50,7 @@ in work:
 	- or [Aligh image](https://forum.obsidian.md/t/align-image)
 		- for more: [Image Adjustments](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustme)
 - [highlighting and underlining](text%20editor/highlighting%20and%20underlining.md)
-- [codeBlocks](custom%20CSS/text%20editor/codeBlocks.md)
+- [codeBlocks](text%20editor/codeBlocks.md)
 
 
 #### Title
@@ -67,8 +67,8 @@ in work:
 	- [Extra hr-line setting](https://github.com/xp-dv/obsidian-extra-extras)
 
 #### List
-- [modifiedList_biggerMark](custom%20CSS/text%20editor/modifiedList_biggerMark.md)
-	- [Unordered list_ad](custom%20CSS/text%20editor/Unordered%20list_ad.md)
+- [modifiedList_biggerMark](text%20editor/modifiedList_biggerMark.md)
+	- [Unordered list_ad](text%20editor/Unordered%20list_ad.md)
 - [Outline numbering](text%20editor/Outline%20numbering.md) - fix note
 
 
@@ -83,7 +83,7 @@ in work:
 		- [not-_coldCallout_Right](text%20editor/not-_coldCallout_Right.md)
 		- [not+_warmCallout](text%20editor/not+_warmCallout.md)
 	- [modified_Folder structure callout](text%20editor/modified_Folder%20structure%20callout.md)
-- wip: [my_miniStyleCallout](my_miniStyleCallout.md)
+- [my_miniStyleCallout](text%20editor/my_miniStyleCallout.md)
 ***
 - [Resources_CSS](notes/Resources_CSS.md)
 ***

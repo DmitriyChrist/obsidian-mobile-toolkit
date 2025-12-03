@@ -5,7 +5,7 @@ Backing up your data is essential to prevent loss from errors, bugs, or other is
 # Table of content
 
 - [intro](articles/intro.md)
-- [Basic Configuration of CodeScript toolkit](custom%20JS/articles/Basic%20Configuration%20of%20CodeScript%20toolkit.md)
+- [Basic Configuration of CodeScript toolkit](articles/Basic%20Configuration%20of%20CodeScript%20toolkit.md)
 - [My main configuration](articles/My%20main%20configuration.md)
 	- [Mobile Quick Action Fix in header](startup/modifHeaderNavBar.md)
 	- [Dynamic Backlinks & Vim button](startup/indicatorVim.md)

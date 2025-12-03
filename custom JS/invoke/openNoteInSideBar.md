@@ -6,7 +6,7 @@ This script opens the currently active file in Obsidian's right sidebar in sourc
 - link: https://github.com/DmitriyChrist/Custom_Obs_journal_DOC
 - type: invoke
 ***
-
+![](https://i.imgur.com/WbwdTZi.jpeg)
 ## Code
 
 

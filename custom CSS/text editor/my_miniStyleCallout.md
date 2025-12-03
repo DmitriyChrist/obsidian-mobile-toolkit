@@ -10,21 +10,6 @@ nice. need test
 
 ## Code
 
-```
- /*Золотистый 
-color: #fbbf24;
-text-shadow: 0 0 5px #fbbf24, 0 0 10px #fbbf24, 0 0 15px #fbbf24;
-*/
-/* Синий 
-color: #60a5fa;
-text-shadow: 0 0 5px #60a5fa, 0 0 10px #60a5fa, 0 0 15px #60a5fa;
-*/
-/* Фиолетовый 
-color: #a78bfa;
-text-shadow: 0 0 5px #a78bfa, 0 0 10px #a78bfa, 0 0 15px #a78bfa;*/
- 
-```
-
 
 ```css
 .callout[data-callout="note+"] {
@@ -124,3 +109,18 @@ text-shadow: 0 0 5px #a78bfa, 0 0 10px #a78bfa, 0 0 15px #a78bfa;*/
 ```
 
 
+
+```
+ /*Gole 
+color: #fbbf24;
+text-shadow: 0 0 5px #fbbf24, 0 0 10px #fbbf24, 0 0 15px #fbbf24;
+*/
+/* Blue 
+color: #60a5fa;
+text-shadow: 0 0 5px #60a5fa, 0 0 10px #60a5fa, 0 0 15px #60a5fa;
+*/
+/* Purpur 
+color: #a78bfa;
+text-shadow: 0 0 5px #a78bfa, 0 0 10px #a78bfa, 0 0 15px #a78bfa;*/
+ 
+```
