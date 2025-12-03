@@ -15,8 +15,6 @@ The main goal of this repository is to improve the UI and UX of Obsidian mobile.
 
 I sincerely hope that the materials presented here will not leave you indifferent and I would like to receive feedback from you in the form of comments, suggestions, or ideas.
 
-Almost all of the content was written with the help of AI. I plan to use this small project-collection as an educational platform.
-
 Some examples are collected from various sources, including existing GitHub repositories.
 
 
