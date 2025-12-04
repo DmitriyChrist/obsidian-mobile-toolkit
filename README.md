@@ -8,6 +8,13 @@
 	- [Main UI configuration](custom%20JS/articles/Main%20UI%20configuration.md)
 
 
+
+Last update:
+04.12.2025 - publish
+Create [Image Caption Numbering Snippet](custom%20CSS/text%20editor/countImgEmbed.md)
+
+03.12.2025 - publish main repo
+
 # intro
 
 

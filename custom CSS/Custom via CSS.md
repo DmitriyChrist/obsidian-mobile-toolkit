@@ -71,7 +71,8 @@ in work:
 	- [Unordered list_ad](text%20editor/Unordered%20list_ad.md)
 - [Outline numbering](text%20editor/Outline%20numbering.md) - fix note
 
-
+#### Embed
+- [Image Caption Numbering Snippet](text%20editor/countImgEmbed.md)
 
 #### Callout
 
