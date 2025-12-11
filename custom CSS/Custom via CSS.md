@@ -65,6 +65,7 @@ in work:
 - [Format keyboard keys text](text%20editor/Format%20keyboard%20keys%20text.md) - in work
 - [Horizontal ruler line](https://forum.obsidian.md/t/creating-fancy-horizontal-rule-lines/63700)
 	- [Extra hr-line setting](https://github.com/xp-dv/obsidian-extra-extras)
+- [Custom Page Width in Obsidian](text%20editor/widePage.md) - tutor
 
 #### List
 - [modifiedList_biggerMark](text%20editor/modifiedList_biggerMark.md)
@@ -114,3 +115,4 @@ in work:
 	- [Callout Kith](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Kith)
 	- [Statblocks Callout](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Statblocks)
 	- [Callout timeline](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Timeline)
+- [OPUS obsidian publish useful scripts](https://forum.obsidian.md/t/my-opus-obsidian-publish-useful-scripts/106801)

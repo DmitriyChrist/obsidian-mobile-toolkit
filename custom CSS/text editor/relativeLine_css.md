@@ -24,14 +24,20 @@ There is also an additional setting for the CSS Editor plugin to reduce differen
 .cm-lineNumbers .cm-gutterElement {
   font-size: var(--font-ui-smaller) !important;
   font-family: var(--font-monospace) !important;
-  color: var(--text-faint) !important;
-  /*color: yellow !important;*/
+  /*color: var(--text-faint) !important;*/
+  color: #888888 !important;
 }
 
 /*styles for active*/
 .cm-gutterElement.cm-activeLineGutter,
 .cm-gutterElement.cm-active {
   color: red !important;
+}
+
+
+/* background for active line */
+.cm-active.cm-line {
+  background-color: rgba(255, 255, 0, 0.15) !important;
 }
 ```
 

@@ -11,7 +11,10 @@
 ***
 Last update:
 
-04.12.2025 - publish
+11.12.2025 - dev
+impruve [relativeLine_css](custom%20CSS/text%20editor/relativeLine_css.md) - add background for active line
+
+04.12.2025 - publish dev
 - Create [Image Caption Numbering Snippet](custom%20CSS/text%20editor/countImgEmbed.md)
 
 03.12.2025 - publish main repo
